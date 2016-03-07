@@ -1,0 +1,9 @@
+Building Rebel
+
+See doc/readme-qt.rst for instructions on building Rebel QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rebel.
+
+See doc/build-*.txt for instructions on building Rebeld,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rebel.
